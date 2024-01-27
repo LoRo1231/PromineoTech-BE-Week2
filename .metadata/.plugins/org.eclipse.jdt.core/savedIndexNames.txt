@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+/Users/loganrobertson/Desktop/PomineoTech - BE 2024/java-week-2/lab/.metadata/.plugins/org.eclipse.jdt.core
+4263758931.index
+4233744891.index
+1865797976.index
